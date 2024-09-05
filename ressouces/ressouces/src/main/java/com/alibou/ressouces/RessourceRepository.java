@@ -1,2 +1,9 @@
-package com.alibou.ressouces;public interface RessourceRepository {
+package com.alibou.ressouces;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import java.util.List;
+
+public interface RessourceRepository extends JpaRepository<Ressource, Long> {
+    List<Ressource> findByIdTache(Long idTache);
 }

@@ -1,2 +1,6 @@
-package com.alibou.projet;public interface ProjetRepository {
+package com.alibou.projet;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface ProjetRepository extends JpaRepository<Projet,Long> {
 }

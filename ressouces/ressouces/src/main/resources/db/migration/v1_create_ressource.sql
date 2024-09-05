@@ -1,0 +1,7 @@
+CREATE TABLE ressources (
+    id BIGINT AUTO_INCREMENT PRIMARY KEY,
+    nom VARCHAR(255) NOT NULL,
+    type VARCHAR(255) NOT NULL,
+    quantite INT NOT NULL,
+    fournisseur VARCHAR(255) NOT NULL
+);
