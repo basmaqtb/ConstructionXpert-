@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d53836de-5afa-4f93-99fd-ad8da7044ec1" name="Changes" comment="&quot;added microservice Projet&quot;">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet/projet/src/main/java/com/alibou/projet/Projet.java" beforeDir="false" afterPath="$PROJECT_DIR$/projet/projet/src/main/java/com/alibou/projet/Projet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet/projet/src/main/java/com/alibou/projet/ProjetController.java" beforeDir="false" afterPath="$PROJECT_DIR$/projet/projet/src/main/java/com/alibou/projet/ProjetController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet/projet/src/main/java/com/alibou/projet/ProjetNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/projet/projet/src/main/java/com/alibou/projet/ProjetNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet/projet/src/main/java/com/alibou/projet/ProjetRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/projet/projet/src/main/java/com/alibou/projet/ProjetRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet/projet/src/main/java/com/alibou/projet/ProjetService.java" beforeDir="false" afterPath="$PROJECT_DIR$/projet/projet/src/main/java/com/alibou/projet/ProjetService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet/projet/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/projet/projet/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet/projet/src/main/resources/db/migration/v1_create_projet.sql" beforeDir="false" afterPath="$PROJECT_DIR$/projet/projet/src/main/resources/db/migration/v1_create_projet.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ressouces/ressouces/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ressouces/ressouces/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ressouces/ressouces/src/main/java/com/alibou/ressouces/RessoucesApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/ressouces/ressouces/src/main/java/com/alibou/ressouces/RessoucesApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ressouces/ressouces/src/main/java/com/alibou/ressouces/Ressource.java" beforeDir="false" afterPath="$PROJECT_DIR$/ressouces/ressouces/src/main/java/com/alibou/ressouces/Ressource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ressouces/ressouces/src/main/java/com/alibou/ressouces/RessourceController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ressouces/ressouces/src/main/java/com/alibou/ressouces/RessourceController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ressouces/ressouces/src/main/java/com/alibou/ressouces/RessourceNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/ressouces/ressouces/src/main/java/com/alibou/ressouces/RessourceNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ressouces/ressouces/src/main/java/com/alibou/ressouces/RessourceRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/ressouces/ressouces/src/main/java/com/alibou/ressouces/RessourceRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ressouces/ressouces/src/main/java/com/alibou/ressouces/RessourceService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ressouces/ressouces/src/main/java/com/alibou/ressouces/RessourceService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ressouces/ressouces/src/main/java/com/alibou/ressouces/beans/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/ressouces/ressouces/src/main/java/com/alibou/ressouces/beans/AppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ressouces/ressouces/src/main/java/com/alibou/ressouces/client/TacheClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/ressouces/ressouces/src/main/java/com/alibou/ressouces/client/TacheClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ressouces/ressouces/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ressouces/ressouces/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ressouces/ressouces/src/main/resources/db/migration/v1_create_ressource.sql" beforeDir="false" afterPath="$PROJECT_DIR$/ressouces/ressouces/src/main/resources/db/migration/v1_create_ressource.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tache/tache/src/main/java/com/alibou/tache/StatusTache.java" beforeDir="false" afterPath="$PROJECT_DIR$/tache/tache/src/main/java/com/alibou/tache/StatusTache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tache/tache/src/main/java/com/alibou/tache/Tache.java" beforeDir="false" afterPath="$PROJECT_DIR$/tache/tache/src/main/java/com/alibou/tache/Tache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tache/tache/src/main/java/com/alibou/tache/TacheController.java" beforeDir="false" afterPath="$PROJECT_DIR$/tache/tache/src/main/java/com/alibou/tache/TacheController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tache/tache/src/main/java/com/alibou/tache/TacheNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/tache/tache/src/main/java/com/alibou/tache/TacheNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tache/tache/src/main/java/com/alibou/tache/TacheRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/tache/tache/src/main/java/com/alibou/tache/TacheRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tache/tache/src/main/java/com/alibou/tache/TacheService.java" beforeDir="false" afterPath="$PROJECT_DIR$/tache/tache/src/main/java/com/alibou/tache/TacheService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tache/tache/src/main/java/com/alibou/tache/beans/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/tache/tache/src/main/java/com/alibou/tache/beans/AppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tache/tache/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/tache/tache/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tache/tache/src/main/resources/db/migration/v1_create_tache.sql" beforeDir="false" afterPath="$PROJECT_DIR$/tache/tache/src/main/resources/db/migration/v1_create_tache.sql" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;basmaqtb&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/basmaqtb/ConstructionXpert-&quot;,
+    &quot;accountId&quot;: &quot;0a78aeaf-9352-4189-95d3-9d27fe02b39e&quot;
+  }
+}</component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2lYMYeUmIyzwFW82m2Dl5YPGHNc" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.DiscoveryApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProjetApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RessoucesApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TacheApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.discovery [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.discovery [install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.ressouces [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.ressouces [install].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/Desktop/ConstructionXpert-/tache/tache/src/main/java/com/alibou/tache&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\ConstructionXpert-\tache\tache\src\main\java\com\alibou\tache" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\ConstructionXpert-\projet\projet\src\main\resources\db\migration" />
+      <recent name="C:\Users\user\Desktop\ConstructionXpert-\projet\projet\src\main\resources" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d53836de-5afa-4f93-99fd-ad8da7044ec1" name="Changes" comment="" />
+      <created>1725352608251</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725352608251</updated>
+    </task>
+    <task id="LOCAL-00001" summary="&quot;added microservice Projet&quot;">
+      <option name="closed" value="true" />
+      <created>1725376593856</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725376593856</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="&quot;added microservice Projet&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;added microservice Projet&quot;" />
+  </component>
+</project>
