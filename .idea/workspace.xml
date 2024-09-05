@@ -4,37 +4,46 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d53836de-5afa-4f93-99fd-ad8da7044ec1" name="Changes" comment="&quot;added microservice Projet&quot;">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projet/projet/src/main/java/com/alibou/projet/Projet.java" beforeDir="false" afterPath="$PROJECT_DIR$/projet/projet/src/main/java/com/alibou/projet/Projet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projet/projet/src/main/java/com/alibou/projet/ProjetController.java" beforeDir="false" afterPath="$PROJECT_DIR$/projet/projet/src/main/java/com/alibou/projet/ProjetController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projet/projet/src/main/java/com/alibou/projet/ProjetNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/projet/projet/src/main/java/com/alibou/projet/ProjetNotFoundException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projet/projet/src/main/java/com/alibou/projet/ProjetRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/projet/projet/src/main/java/com/alibou/projet/ProjetRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projet/projet/src/main/java/com/alibou/projet/ProjetService.java" beforeDir="false" afterPath="$PROJECT_DIR$/projet/projet/src/main/java/com/alibou/projet/ProjetService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projet/projet/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/projet/projet/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projet/projet/src/main/resources/db/migration/v1_create_projet.sql" beforeDir="false" afterPath="$PROJECT_DIR$/projet/projet/src/main/resources/db/migration/v1_create_projet.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ressouces/ressouces/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ressouces/ressouces/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ressouces/ressouces/src/main/java/com/alibou/ressouces/RessoucesApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/ressouces/ressouces/src/main/java/com/alibou/ressouces/RessoucesApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ressouces/ressouces/src/main/java/com/alibou/ressouces/Ressource.java" beforeDir="false" afterPath="$PROJECT_DIR$/ressouces/ressouces/src/main/java/com/alibou/ressouces/Ressource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ressouces/ressouces/src/main/java/com/alibou/ressouces/RessourceController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ressouces/ressouces/src/main/java/com/alibou/ressouces/RessourceController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ressouces/ressouces/src/main/java/com/alibou/ressouces/RessourceNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/ressouces/ressouces/src/main/java/com/alibou/ressouces/RessourceNotFoundException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ressouces/ressouces/src/main/java/com/alibou/ressouces/RessourceRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/ressouces/ressouces/src/main/java/com/alibou/ressouces/RessourceRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ressouces/ressouces/src/main/java/com/alibou/ressouces/RessourceService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ressouces/ressouces/src/main/java/com/alibou/ressouces/RessourceService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ressouces/ressouces/src/main/java/com/alibou/ressouces/beans/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/ressouces/ressouces/src/main/java/com/alibou/ressouces/beans/AppConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ressouces/ressouces/src/main/java/com/alibou/ressouces/client/TacheClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/ressouces/ressouces/src/main/java/com/alibou/ressouces/client/TacheClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ressouces/ressouces/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ressouces/ressouces/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ressouces/ressouces/src/main/resources/db/migration/v1_create_ressource.sql" beforeDir="false" afterPath="$PROJECT_DIR$/ressouces/ressouces/src/main/resources/db/migration/v1_create_ressource.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tache/tache/src/main/java/com/alibou/tache/StatusTache.java" beforeDir="false" afterPath="$PROJECT_DIR$/tache/tache/src/main/java/com/alibou/tache/StatusTache.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tache/tache/src/main/java/com/alibou/tache/Tache.java" beforeDir="false" afterPath="$PROJECT_DIR$/tache/tache/src/main/java/com/alibou/tache/Tache.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tache/tache/src/main/java/com/alibou/tache/TacheController.java" beforeDir="false" afterPath="$PROJECT_DIR$/tache/tache/src/main/java/com/alibou/tache/TacheController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tache/tache/src/main/java/com/alibou/tache/TacheNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/tache/tache/src/main/java/com/alibou/tache/TacheNotFoundException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tache/tache/src/main/java/com/alibou/tache/TacheRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/tache/tache/src/main/java/com/alibou/tache/TacheRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tache/tache/src/main/java/com/alibou/tache/TacheService.java" beforeDir="false" afterPath="$PROJECT_DIR$/tache/tache/src/main/java/com/alibou/tache/TacheService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tache/tache/src/main/java/com/alibou/tache/beans/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/tache/tache/src/main/java/com/alibou/tache/beans/AppConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tache/tache/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/tache/tache/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tache/tache/src/main/resources/db/migration/v1_create_tache.sql" beforeDir="false" afterPath="$PROJECT_DIR$/tache/tache/src/main/resources/db/migration/v1_create_tache.sql" afterDir="false" />
+    <list default="true" id="d53836de-5afa-4f93-99fd-ad8da7044ec1" name="Changes" comment="&quot;feignClient and restTemplate&quot;">
+      <change afterPath="$PROJECT_DIR$/identity/identity/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/identity/identity/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/identity/identity/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/identity/identity/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/identity/identity/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/identity/identity/src/main/java/com/identity/IdentityApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/identity/identity/src/main/java/com/identity/Model/UserCredential.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/identity/identity/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/identity/identity/src/test/java/com/identity/IdentityApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-server (1)/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-server (1)/.idea/config-server (1).iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-server (1)/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-server (1)/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-server (1)/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-server (1)/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-server (1)/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-server (1)/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-server (1)/config-server/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-server (1)/config-server/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-server (1)/config-server/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-server (1)/config-server/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-server (1)/config-server/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-server (1)/config-server/src/main/java/com/alibou/configserver/ConfigServerApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-server (1)/config-server/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-server (1)/config-server/src/test/java/com/alibou/configserver/ConfigServerApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo (3)/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo (3)/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo (3)/.idea/demo (3).iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo (3)/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo (3)/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo (3)/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo (3)/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo (3)/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo (3)/demo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo (3)/demo/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo (3)/demo/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo (3)/demo/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo (3)/demo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo (3)/demo/src/main/resources/application.properties" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,25 +95,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Application.DiscoveryApplication.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ProjetApplication.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RessoucesApplication.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TacheApplication.executor&quot;: &quot;Run&quot;,
-    &quot;Maven.discovery [clean].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.discovery [install].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.ressouces [clean].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.ressouces [install].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/Desktop/ConstructionXpert-/tache/tache/src/main/java/com/alibou/tache&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.DiscoveryApplication.executor": "Run",
+    "Application.IdentityApplication.executor": "Run",
+    "Application.ProjetApplication.executor": "Run",
+    "Application.RessoucesApplication.executor": "Run",
+    "Application.TacheApplication.executor": "Run",
+    "Maven.discovery [clean].executor": "Run",
+    "Maven.discovery [install].executor": "Run",
+    "Maven.ressouces [clean].executor": "Run",
+    "Maven.ressouces [install].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/user/Desktop/ConstructionXpert-/identity/identity/pom.xml"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\user\Desktop\ConstructionXpert-\tache\tache\src\main\java\com\alibou\tache" />
@@ -131,12 +141,30 @@
       <option name="project" value="LOCAL" />
       <updated>1725376593856</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="&quot;&quot;">
+      <option name="closed" value="true" />
+      <created>1725545231777</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725545231777</updated>
+    </task>
+    <task id="LOCAL-00003" summary="&quot;feignClient and restTemplate&quot;">
+      <option name="closed" value="true" />
+      <created>1725545294531</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725545294531</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="&quot;added microservice Projet&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;added microservice Projet&quot;" />
+    <MESSAGE value="&quot;&quot;" />
+    <MESSAGE value="&quot;feignClient and restTemplate&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;feignClient and restTemplate&quot;" />
   </component>
 </project>
